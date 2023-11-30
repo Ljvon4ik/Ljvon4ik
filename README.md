@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Dzmitry
 #### I'm a Unity developer
-Unity game developer with a passion for creating immersive experiences. 
+Game programming is my love. It's not just about technical skills, but also about creativity, about the ability to give people amazing emotions through the magic of code.
 
-Skills: Unity / C#
+Skills: Unity / C# / DI /
 
 - 🔭 I’m currently working on refactoring the code for the game Minesweeper 
-- 🌱 I’m currently learning test-driven development and design patterns  
+- 🌱 I'm working on designing an extensible and easily maintainable code architecture
 - 📫 How to reach me: dzmitryliaonau@gmail.com 
 
 
